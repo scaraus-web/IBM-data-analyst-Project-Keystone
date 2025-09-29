@@ -26,9 +26,10 @@ This project answers:
 - Cleaned dataset saved to [`data/df_cleanLAB26.csv`](./data/df_cleanLAB26.csv).  
 
 ### 2. Analysis & Visualization
-- **Python (pandas):** Cleaning and preparation → [`notebooks/Cleaning_survey_data_for_Keystone_project.ipynb`](./notebooks/Cleaning_survey_data_for_Keystone_project.ipynb)  
+- **Python (pandas):** Cleaning and preparation → [Jupyter Notebook](./notebook/Cleaning_survey_data_for_Keystone_project.ipynb)  
 - **Google Looker Studio:** Interactive dashboards showing language, database, and platform trends.  
-- **PDF Presentation:** [Developer Technology Preferences and Usage Patterns](./presentation/Developer_Technology_Preferences_and_Usage_Patterns.pdf)
+- **PDF Presentation:** [Developer Technology Preferences and Usage Patterns](./presentation/Developer%20Technology%20Preferences%20and%20Usage%20Patterns.pdf)
+
 
 ---
 
