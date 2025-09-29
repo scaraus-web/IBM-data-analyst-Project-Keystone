@@ -53,7 +53,7 @@ This project answers:
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 - `data/` → Cleaned CSV file  
 - `notebooks/` → Jupyter notebook for data wrangling  
 - `presentation/` → PDF project presentation  
@@ -61,11 +61,11 @@ This project answers:
 
 ---
 
-## 📬 Contact
+## Contact
 **Author:** Serge Caraus  
 - [GitHub](https://github.com/scaraus-web)  
 - [LinkedIn](https://www.linkedin.com/in/serge-caraus-8922b177/)  
 
 ---
 
-⚡ *This capstone project demonstrates end-to-end data analysis: data cleaning, visualization, and storytelling with actionable insights for developers, managers, and educators.*
+*This capstone project demonstrates end-to-end data analysis: data cleaning, visualization, and storytelling with actionable insights for developers, managers, and educators.*
