@@ -18,21 +18,21 @@ This project answers:
 
 ---
 
-##  Methods
+## Methods
 
 ### 1. Data Preparation
 - Removed missing values and duplicates.  
 - Transformed comma-separated survey responses into unique values per column.  
-- Cleaned dataset saved to `data/df_cleanLAB26.csv`.
+- Cleaned dataset saved to [`data/df_cleanLAB26.csv`](./data/df_cleanLAB26.csv).  
 
 ### 2. Analysis & Visualization
-- **Python (pandas):** Cleaning and preparation (`notebook/Cleaning_survey_data_for_Keystone_project.ipynb`).  
+- **Python (pandas):** Cleaning and preparation → [`notebooks/Cleaning_survey_data_for_Keystone_project.ipynb`](./notebooks/Cleaning_survey_data_for_Keystone_project.ipynb)  
 - **Google Looker Studio:** Interactive dashboards showing language, database, and platform trends.  
 - **PDF Presentation:** [Developer Technology Preferences and Usage Patterns](./presentation/Developer_Technology_Preferences_and_Usage_Patterns.pdf)
 
 ---
 
-##  Key Insights
+## Key Insights
 
 - **Languages:**  
   - JavaScript dominates both current use and future preference.  
@@ -64,7 +64,7 @@ This project answers:
 ## 📬 Contact
 **Author:** Serge Caraus  
 - [GitHub](https://github.com/scaraus-web)  
-- [LinkedIn]([https://www.linkedin.com/in/serge-caraus/](https://www.linkedin.com/in/serge-caraus-8922b177/)  
+- [LinkedIn](https://www.linkedin.com/in/serge-caraus-8922b177/)  
 
 ---
 
