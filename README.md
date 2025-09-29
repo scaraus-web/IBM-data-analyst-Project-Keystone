@@ -1,4 +1,4 @@
-# 💻 IBM Data Analyst Capstone Project: Developer Technology Preferences & Usage
+# IBM Data Analyst Capstone Project: Developer Technology Preferences & Usage
 
 **Tools:** Python (pandas) • Jupyter Notebooks • Google Looker Studio  
 **Live Dashboards:**  
@@ -8,7 +8,7 @@
 
 ---
 
-## ❓ Problem Statement
+## Problem Statement
 The global developer ecosystem evolves rapidly, with programming languages, databases, and platforms constantly shifting in popularity.  
 This project answers:  
 - Which technologies dominate current usage?  
@@ -18,7 +18,7 @@ This project answers:
 
 ---
 
-## 🛠 Methods
+##  Methods
 
 ### 1. Data Preparation
 - Removed missing values and duplicates.  
@@ -28,11 +28,11 @@ This project answers:
 ### 2. Analysis & Visualization
 - **Python (pandas):** Cleaning and preparation (`notebook/Cleaning_survey_data_for_Keystone_project.ipynb`).  
 - **Google Looker Studio:** Interactive dashboards showing language, database, and platform trends.  
-- **PDF Presentation:** [Developer Technology Preferences and Usage Patterns](./presentation/Developer_Technology_Preferences_and_Usage_Patterns.pdf) summarizing findings:contentReference[oaicite:1]{index=1}.
+- **PDF Presentation:** [Developer Technology Preferences and Usage Patterns](./presentation/Developer_Technology_Preferences_and_Usage_Patterns.pdf)
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - **Languages:**  
   - JavaScript dominates both current use and future preference.  
@@ -64,7 +64,7 @@ This project answers:
 ## 📬 Contact
 **Author:** Serge Caraus  
 - [GitHub](https://github.com/scaraus-web)  
-- [LinkedIn](https://www.linkedin.com/in/serge-caraus/)  
+- [LinkedIn]([https://www.linkedin.com/in/serge-caraus/](https://www.linkedin.com/in/serge-caraus-8922b177/)  
 
 ---
 
